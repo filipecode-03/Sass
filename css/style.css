@@ -1,3 +1,18 @@
+header {
+  height: 150px;
+  background-color: green;
+}
+
+main {
+  height: 150px;
+  background-color: red;
+}
+
+footer {
+  height: 150px;
+  background-color: yellow;
+}
+
 .principal div p {
   font-size: 332px;
   color: red;

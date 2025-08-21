@@ -1,8 +1,13 @@
+@import 'header';
+@import 'main';
+@import 'footer';
+
+$bgcolor: red;
 .principal {
     div {
         p {
             font-size: 332px;
-            color: red;
+            color: $bgcolor;
             &hover {
                 color: blue;
             }
